@@ -1,0 +1,5 @@
+name=input("enter your name")
+if name=="yashu"
+	print("login success")
+else
+	print("login incorrect")
